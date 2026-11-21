@@ -1,0 +1,2 @@
+fixtures/**/input/*.csv -text
+fixtures/**/input/**/*.csv -text

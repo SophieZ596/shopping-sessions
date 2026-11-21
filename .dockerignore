@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements.txt
+!run.sh
+!pipeline/
+!pipeline/native.cpp
+!pipeline/pipeline.py
